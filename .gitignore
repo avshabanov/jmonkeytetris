@@ -1,0 +1,18 @@
+
+# Intellij
+.idea
+*.iml
+*.iwr
+*.iws
+
+# VS Code
+.vscode
+
+# Mac
+.DS_Store
+
+# Maven
+target
+
+# Unused files
+abandoned

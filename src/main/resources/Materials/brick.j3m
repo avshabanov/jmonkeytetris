@@ -1,0 +1,11 @@
+Material Steel : Common/MatDefs/Light/Lighting.j3md {
+    MaterialParameters {
+        DiffuseMap :        Textures/brick/brick-diffuse.png
+        NormalMap :         Textures/brick/brick-normal.jpg
+        SpecularMap :       Textures/brick/brick-specular.jpg
+        UseMaterialColors : true
+        Specular :          1.0 1.0 1.0 1.0
+        Diffuse :           1.0 1.0 1.0 1.0
+        Shininess :         32.0
+    }
+}

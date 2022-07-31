@@ -1,0 +1,11 @@
+Material Steel : Common/MatDefs/Light/Lighting.j3md {
+    MaterialParameters {
+        DiffuseMap :        Textures/pebble/pebble-diffuse.jpg
+        NormalMap :         Textures/pebble/pebble-normal.jpg
+        SpecularMap :       Textures/pebble/pebble-specular.jpg
+        UseMaterialColors : true
+        Specular :          1.0 1.0 1.0 1.0
+        Diffuse :           1.0 1.0 1.0 1.0
+        Shininess :         64.0
+    }
+}
