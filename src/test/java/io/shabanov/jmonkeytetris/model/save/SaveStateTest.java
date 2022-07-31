@@ -1,4 +1,4 @@
-package jmonkeytetris.model.save;
+package io.shabanov.jmonkeytetris.model.save;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.shabanov.jmonkeytetris.model.TetrisCoordinate;

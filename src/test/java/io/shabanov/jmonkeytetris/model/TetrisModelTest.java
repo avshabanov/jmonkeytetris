@@ -1,4 +1,4 @@
-package jmonkeytetris.model;
+package io.shabanov.jmonkeytetris.model;
 
 import io.shabanov.jmonkeytetris.model.Tetrades;
 import io.shabanov.jmonkeytetris.model.TetrisModel;

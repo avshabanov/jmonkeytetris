@@ -1,4 +1,4 @@
-package jmonkeytetris.util;
+package io.shabanov.jmonkeytetris.util;
 
 import io.shabanov.jmonkeytetris.util.PubSub;
 import lombok.Value;

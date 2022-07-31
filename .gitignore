@@ -16,3 +16,9 @@ target
 
 # Unused files
 abandoned
+
+# Dynamic libraries
+
+/*.dylib
+/*.so
+/*.dll

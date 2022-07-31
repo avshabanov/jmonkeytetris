@@ -14,3 +14,8 @@ Features a use of the following:
 
 Install maven 3 then do `mvn clean install` in the application's directory.
 
+Once application compiled, you can start it as follows:
+
+```bash
+mvn exec:java
+```
