@@ -8,13 +8,13 @@ Features a use of the following:
 * Game loop
 * Use of sound effects
 * Sample save/load game functionality
-* Primitive UI
+* Primitive UI, using built-in jmonkey functionality only
 
 Game UI:
 
-![logo](https://user-images.githubusercontent.com/822988/182048752-e949e098-68c3-44ec-8034-b4632bd8a12b.png)
+![title screen](https://user-images.githubusercontent.com/822988/182048752-e949e098-68c3-44ec-8034-b4632bd8a12b.png)
 
-![game](https://user-images.githubusercontent.com/822988/182048754-66ee70a6-2493-4dc5-affa-c37cfb58fd6b.png)
+![game screen](https://user-images.githubusercontent.com/822988/182048754-66ee70a6-2493-4dc5-affa-c37cfb58fd6b.png)
 
 ## First Start
 
@@ -36,3 +36,7 @@ mvn exec:java
 * L - quick load
 * Esc - escape to title screen or (if already on title screen) exit game
 
+## Links
+
+* All sound files are taken from [freesound](https://freesound.org/) website with slight editing.
+* Tetris logo is inspired by Imphenzia's [low poly modeling lessons](https://www.youtube.com/watch?v=1jHUY3qoBu8).
