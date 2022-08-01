@@ -18,7 +18,9 @@ Game UI:
 
 ## First Start
 
-Install maven 3 then do `mvn clean install` in the application's directory.
+Application requires java 11 or later and [maven 3](https://maven.apache.org/download.cgi) to be installed prior to compilation.
+
+After installing both of these do `mvn clean install` in the application's directory.
 
 Once application compiled, you can start it as follows:
 
