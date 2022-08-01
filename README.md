@@ -5,8 +5,8 @@ A tetris game demo, illustrating usage of jmonkeyengine.
 Features a use of the following:
 
 * Use of custom application states
-* Game loop
 * Use of sound effects
+* Basic work with camera, lighting materials and 3D models
 * Sample save/load game functionality
 * Primitive UI, using built-in jmonkey functionality only
 
